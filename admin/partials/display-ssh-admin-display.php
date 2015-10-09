@@ -16,9 +16,9 @@
 <h3>SSH Keys</h3>
 <table class="form-table">
     <tr>
-        <th><label for="ssh-key">SSH Keys</label></th>
+        <th><label for="ssh_key">SSH Keys</label></th>
         <td>
-            <textarea name="ssh-key" id="ssh-key" rows="5" cols="30" placeholder="Enter your SSH Keys here"><?php echo get_the_author_meta( 'ssh_key', $user->ID ); ?></textarea>
+            <textarea name="ssh_key" id="ssh-key" rows="5" cols="30" placeholder="Enter your SSH Keys here"><?php echo get_the_author_meta( 'ssh_key', $user->ID ); ?></textarea>
         </td>
     </tr>
 </table>

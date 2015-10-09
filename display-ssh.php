@@ -14,7 +14,7 @@
  *
  * @wordpress-plugin
  * Plugin Name:       Display SSH Keys
- * Plugin URI:        http://robertsky.com/display-ssh
+ * Plugin URI:        https://github.com/robertsky/display-ssh
  * Description:       A simple plugin to show public keys of the authors.
  * Version:           1.0.0
  * Author:            Robert Sim
